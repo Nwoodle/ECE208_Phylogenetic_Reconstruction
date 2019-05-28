@@ -1,1 +1,3 @@
-/S101
+*.phylip
+/S101/genetrees
+/S101/speciestrees
