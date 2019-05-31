@@ -1,7 +1,7 @@
 start=$(date "+%s")
 count=0
-for folder in $(ls S101/alignments)
-# for folder in 01 02 03
+# for folder in $(ls S101/alignments)
+for folder in 01
 do
     for contract in _200 _400 _800 _1600
     do
