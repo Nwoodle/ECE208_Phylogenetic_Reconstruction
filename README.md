@@ -3,7 +3,7 @@
 > * Haoran Wu
 > * Daoyu Li
 > * Qinyan Li
-> * Lin Huang
+> * Huang Lin
 
 We used aLRT as the branch test for gene trees and compare RF distances of different thresholds given by the aLRT test.
 
